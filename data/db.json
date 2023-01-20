@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 0.12184027414066145,
+      "title": "Limpar Casa",
+      "time": "1",
+      "done": true
+    },
+    {
+      "id": 0.607283983053722,
+      "title": "Estudar Inglês",
+      "time": "1.5",
+      "done": false
+    },
+    {
+      "id": 0.7186649107650513,
+      "title": "Fazer commit",
+      "time": "1",
+      "done": false
+    }
+  ]
+}

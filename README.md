@@ -1,3 +1,30 @@
+# To Do List 📜✔️❌
+
+[Video.webm](https://user-images.githubusercontent.com/96501443/188933369-e57a66b7-7cf9-4f2d-b94e-c84acbc6c9d3.webm)
+
+## 🧰 O que foi utilizado:
+[![REACT](https://camo.githubusercontent.com/67a01fa7cf337616274f39c070a11638f2e65720e414ef55b8dd3f9c2a803b2a/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526561637426636f6c6f723d323232323232266c6f676f3d5265616374266c6f676f436f6c6f723d363144414642266c6162656c3d)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/get-windows-10)
+[![IDE](https://img.shields.io/badge/Visual_studio_code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
+## 🎯 Objetivo:
+
+- O objetivo foi criar um To Do List para o usuário adicionar as suas tarefas do cotidiano. Esse projeto foi desenvolvido com a finalidade de explorar os conhecimentos em React.JS e tecnologias de Front-End, além de manipular o JSON. 
+
+### 📞 Contato:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielalmeidadetoledo/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5515998485252)
+
+## 📸 Telas: 
+
+![Screen1](https://user-images.githubusercontent.com/96501443/188933686-cf8f771a-1588-467a-b98e-723be9d216ca.JPG)
+![Screen2](https://user-images.githubusercontent.com/96501443/188933698-46fe217c-e3ce-4cd4-b9f7-c0003be4e1fb.JPG)
+![Screen3](https://user-images.githubusercontent.com/96501443/188933712-03cee1b5-6dea-4a82-b73a-259a832b1f3a.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
